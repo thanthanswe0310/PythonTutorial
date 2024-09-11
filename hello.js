@@ -1,1 +1,1 @@
-const pari = "extraordniarie"
+const pair = "extraordniarie"
